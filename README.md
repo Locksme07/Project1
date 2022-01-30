@@ -1,2 +1,4 @@
 # Project1
-Github practise repository
+## Github practise repository
+
+**Owner:** Michelle Forbes-Baptiste
